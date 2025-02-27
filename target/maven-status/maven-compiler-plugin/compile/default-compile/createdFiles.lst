@@ -1,0 +1,5 @@
+filip/hardcorecode/chatBlacklistWordsPlugin/ChatBlacklistWordsPlugin.class
+filip/hardcorecode/chatBlacklistWordsPlugin/listener/Blacklistwords.class
+filip/hardcorecode/chatBlacklistWordsPlugin/ConfigUtil.class
+filip/hardcorecode/chatBlacklistWordsPlugin/Config.class
+filip/hardcorecode/chatBlacklistWordsPlugin/commands/BlacklistwordsCommand.class
